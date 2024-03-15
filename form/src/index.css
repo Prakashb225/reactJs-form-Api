@@ -1,0 +1,20 @@
+body {
+  padding: 20px;
+  font-family: sans-serif;
+  margin-left: 400px;
+  margin-top: 150px;
+  background-image: linear-gradient(to right, rgb(234, 232, 240) , rgb(184, 130, 235));
+
+}
+input{
+  padding: 5px;
+}
+.btn{
+  margin-top: 30px;
+  margin-left: 80px;
+  color: black;
+  background-color: rgb(110, 112, 211);
+  cursor: pointer;
+  border-radius: 5px;
+  height: 20px;
+}
